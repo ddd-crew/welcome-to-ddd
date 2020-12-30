@@ -2,7 +2,7 @@
 
 ![DDD on a page](resources/ddd_on_a_page.jpg)
 
-## How to get started with DDD
+## Getting started with DDD
 
 DDD is not an all-or-nothing deal. You can apply the ideas from DDD as much or as little as you feel is beneficial to the project you're working on. 
 
