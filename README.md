@@ -13,3 +13,5 @@ For some projects you might just apply DDD to your discovery work, for other pro
 Here are some of the ways in which you can get started with learning DDD or applying it immediately to your current project.
 
 - Check out [The DDD Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) if you want to see how DDD can be applied cohesively to different aspects of software development from discovery to strategic to tactical.
+
+- Get started with hands-on techniques using [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools), a free ebook containing workshop recipes for a number of collaborative DDD techniques including EventStorming, Domain Storytelling, Domain Quiz, and Context Mapping.
