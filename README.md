@@ -1,4 +1,4 @@
-# What is Domain-Driven Design?
+# What is Domain-Driven Design (DDD)?
 
 ![DDD on a page](resources/ddd_on_a_page.jpg)
 
