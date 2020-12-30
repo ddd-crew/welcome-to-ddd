@@ -1,4 +1,4 @@
-# Welcome to DDD
+# Welcome to Domain-Driven Design (DDD)
 
 This project contains definitions of DDD and fundamental concepts to reduce the learning curve and confusion.
 
