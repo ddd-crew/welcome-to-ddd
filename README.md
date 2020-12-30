@@ -6,7 +6,7 @@
 
 DDD is not an all-or-nothing deal. You can apply the ideas from DDD as much or as little as you feel is beneficial to the project you're working on. 
 
-For some projects you might just apply DDD to your discovery work, for other projects you might skip strategic DDD and just start by modelling in code with some lightweight visualization. Please don't feel pressured into over-applying DDD. You'll always be welcome.
+For some projects you might just apply techniques from DDD to your discovery work, for other projects you might skip strategic DDD and just start by modelling in code with some lightweight visualization. Please don't feel pressured into over-applying DDD.
 
 Here are some of the ways in which you can get started with learning DDD or applying immediately to your current project.
 
