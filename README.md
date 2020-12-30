@@ -1,4 +1,6 @@
-# What is Domain-Driven Design (DDD)?
+# Welcome to DDD
+
+Definitions of DDD and fundamental concepts to reduce learning curve and confusion
 
 ![DDD on a page](resources/ddd_on_a_page.jpg)
 
