@@ -17,3 +17,5 @@ Here are some of the ways in which you can get started with learning DDD or appl
 - Get started with hands-on techniques using [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools), a free ebook containing workshop recipes for a number of collaborative DDD techniques including EventStorming, Domain Storytelling, Domain Quiz, and Context Mapping.
 
 - Read Eric Evans' [DDD Reference Guide](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) which provides definitions for the traditional DDD patterns.
+
+- Take a look at Mathias Verraes' article [What is Domain-Driven Design?](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
