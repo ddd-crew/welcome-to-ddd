@@ -2,7 +2,9 @@
 
 This project contains definitions of DDD and fundamental concepts to reduce the learning curve and confusion.
 
-![DDD on a page](resources/ddd_on_a_page.jpg)
+![DDD on a page](resources/ddd_on_a_page1.jpg)
+resources/ddd_on_a_page2.jpg
+resources/ddd_on_a_page3.jpg
 
 ## Getting started with DDD
 
